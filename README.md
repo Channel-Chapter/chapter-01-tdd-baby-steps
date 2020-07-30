@@ -1,5 +1,5 @@
-# Zup Chapter 01 - TDD Baby Steps
-Neste primeiro Chapter foi demonstrado o uso de TDD Baby Steps com boas práticas de programação na evolução do código e dos testes.
+# Channel Chapter 01 - TDD Baby Steps
+Neste primeiro Chapter foi demonstrado o uso de TDD Baby Steps com boas prÃ¡ticas de programaÃ§Ã£o na evoluÃ§Ã£o do cÃ³digo e dos testes.
 
 ## Roteiro
-O arquivo [roteiro.md](./Roteiro.md) demonstra o passo a passo da evolução do código, a cobertura de testes e também a evloução do projeto de testes.
+O arquivo [roteiro.md](./Roteiro.md) demonstra o passo a passo da evoluÃ§Ã£o do cÃ³digo, a cobertura de testes e tambÃ©m a evlouÃ§Ã£oo do projeto de testes.
